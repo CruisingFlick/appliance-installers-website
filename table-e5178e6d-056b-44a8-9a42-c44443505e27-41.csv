@@ -1,0 +1,4 @@
+﻿Name,Value,Type
+VITE_CRM_API_URL,https://your-crm.replit.dev,Preview
+VITE_CRM_API_KEY,your-secure-api-key-here,Preview
+VITE_GOOGLE_MAPS_API_KEY,your-restricted-maps-key,Preview
